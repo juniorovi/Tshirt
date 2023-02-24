@@ -1,0 +1,9 @@
+.home-cointainer{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.tshirt-cointainer{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 5px;
+}
